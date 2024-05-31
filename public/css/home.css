@@ -1,0 +1,22 @@
+.containerAll {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    gap: 1em;
+}
+
+.formStyle {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+
+}
+
+button {
+
+    width: 100%;
+    margin-top: 1em;
+
+}
